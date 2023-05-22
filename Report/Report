@@ -1,1 +1,3 @@
-
+В данном разделе сохранены модели с весами для 5 методов(оптимизированы параметры): RandomForestClassifier, KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC.
+Также сохранена промежуточная модель без подбора оптимальных параметров.
+В файле HW Wine Quality представлены все расчеты и работа  с данными.
